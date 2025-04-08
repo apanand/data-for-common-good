@@ -23,7 +23,7 @@ This project focuses on detecting signs of neighborhood disorder, with a key com
   Shows a simple approach to visualizing model outputs on a geographical map of Chicago.
 
 - **app.py**  
-  An example Flask application (or similar) to deploy the trained model for real-time inference.
+  An example Flask application (or similar) to deploy the trained model for real-time inference. We used ours for a Streamlit sample.
 
 - **graffiti_model_weights.pt**  
   The saved model weights from the trained graffiti detection model (PyTorch format).
