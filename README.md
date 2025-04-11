@@ -13,8 +13,8 @@ This repository hosts all scripts and files used in the UChicago MSADS Capstone 
 ## Overview
 
 Through the files included here, you can:
-- Train, evaluate, and deploy a machine learning model to detect graffiti
-- Analyze road segments for potential signs of neighborhood disorder
+- Train, evaluate, and deploy a machine learning model to detect graffiti 
+- Train, evaluate, and deploy a machine learning model to categorize road segments as "bad" 
 - Collect and organize images for heatmap visualization
 - Serve prediction results via a simple web application
 
