@@ -2,12 +2,6 @@
 
 This repository hosts all scripts and files used in the UChicago MSADS Capstone Project to create computer vision models for identifying Chicago neighborhood disorder.
 
-### Roboflow Public Datasets used for training, testing, validation, and testing
-[Dataset Spreadsheet Link](https://uchicagoedu-my.sharepoint.com/:x:/r/personal/cmarasco_uchicago_edu/Documents/DataSet%20TOC.xlsx?d=w27412bf bba724fdfa1a7227800be68a1&csf=1&web=1&e=suXvY6)
-
-### API extracted Google Street View images used for training, validation, and testing
-[Dataset Spreadsheet Link]
-
 ---
 
 ## Overview
@@ -58,3 +52,17 @@ Through the files included here, you can:
      - A demonstration of overlaying model inference data (e.g., graffiti detections) onto a city map  
 
 ---
+
+## Linked Files 
+
+1. **Bad_Road_Model_Weights**  
+   - https://drive.google.com/drive/folders/1mSRfVKhuknFKIKuOCTRlZ4j7I_JqP6pu?usp=sharing
+  
+2. **Roboflow Public Datasets used for training, testing, validation, and testing**  
+   - https://uchicagoedu-my.sharepoint.com/:x:/r/personal/cmarasco_uchicago_edu/Documents/DataSet%20TOC.xlsx?d=w27412bf bba724fdfa1a7227800be68a1&csf=1&web=1&e=suXvY6
+  
+3. **API extracted Google Street View images used for training, validation, and testing**
+   - [Dataset Spreadsheet Link]
+     
+---
+
