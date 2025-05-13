@@ -56,10 +56,10 @@ Through the files included here, you can:
 ## Linked Files 
 
 1. **Bad_Road_Model_Weights**  
-   - https://drive.google.com/drive/folders/1mSRfVKhuknFKIKuOCTRlZ4j7I_JqP6pu?usp=sharing
+   - https://www.dropbox.com/scl/fi/wgh00eznq91el46sxzr5q/bad_road_model_weights-20250513T162546Z-1-001.zip?rlkey=pi0eczl3i5y14mbravocchlqi&st=qjbdqst8&dl=0
   
 2. **Roboflow Public Datasets used for training, testing, validation, and testing**  
-   - https://uchicagoedu-my.sharepoint.com/:x:/r/personal/cmarasco_uchicago_edu/Documents/DataSet%20TOC.xlsx?d=w27412bfbba724fdfa1a7227800be68a1&csf=1&web=1&e=suXvY6
+   - https://www.dropbox.com/scl/fi/5914yqvxtkl95inx7k3yr/DataSet-TOC.xlsx?rlkey=fz6wt3p1yhboczyt4fdr5ma3h&st=kfh0h10r&dl=0
   
 3. **API extracted Google Street View images used for training, validation, and testing**
    - [Dataset Spreadsheet Link]
